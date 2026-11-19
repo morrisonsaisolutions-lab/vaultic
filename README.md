@@ -1,5 +1,7 @@
 # Vaultic
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/morrisonsaisolutions-lab-vaultic-afwvyr?v=c8490333ba142f0bfeae6f37fb54fd4a)](https://m8ven.ai/mcp/morrisonsaisolutions-lab-vaultic-afwvyr?s=readme)
+
 **Persistent, private memory for any MCP-compatible AI agent.**
 
 Transcripts, searchable memories, a knowledge graph, and a relationship ledger — all in one local SQLite file on your own machine. No cloud, no telemetry, no account.
