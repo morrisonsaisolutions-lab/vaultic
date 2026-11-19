@@ -1,6 +1,6 @@
 # Vaultic
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/morrisonsaisolutions-lab-vaultic-afwvyr?v=c8490333ba142f0bfeae6f37fb54fd4a)](https://m8ven.ai/mcp/morrisonsaisolutions-lab-vaultic-afwvyr?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/morrisonsaisolutions-lab/vaultic)](https://m8ven.ai/mcp/morrisonsaisolutions-lab/vaultic?s=readme)
 
 **Persistent, private memory for any MCP-compatible AI agent.**
 
